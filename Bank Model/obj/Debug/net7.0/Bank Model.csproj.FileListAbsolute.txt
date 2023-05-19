@@ -1,0 +1,17 @@
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\Bank Model.exe
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\Bank Model.deps.json
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\Bank Model.runtimeconfig.json
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\Bank Model.dll
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\Bank Model.pdb
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.csproj.AssemblyReference.cache
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.AssemblyInfoInputs.cache
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.AssemblyInfo.cs
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.csproj.CoreCompileInputs.cache
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.csproj.CopyComplete
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.dll
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\refint\Bank Model.dll
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.pdb
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\Bank Model.genruntimeconfig.cache
+C:\Users\Decadev\Desktop\My Weekly Task\Bank Model\Bank Model\obj\Debug\net7.0\ref\Bank Model.dll
